@@ -1,0 +1,8 @@
+.best-sellers {
+    margin-bottom: 50px;
+}
+
+.best-sellers__list {
+    display: flex;
+    flex-wrap: wrap;
+}

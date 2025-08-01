@@ -1,0 +1,37 @@
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f2f2f2;
+}
+
+.header__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo {
+  color: #fb7749;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.header__search {
+  width: 1000px;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 20px;
+  color: #666;
+  border-radius: 8px;
+  border: 1px solid #cecccc;
+}
+
+.header__link {
+  color: #333;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.header__user {
+    cursor: pointer;
+}

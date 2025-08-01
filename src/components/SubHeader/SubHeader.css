@@ -1,0 +1,16 @@
+.sub-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sub-header__list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.sub-header__link {
+    color: #333;
+    font-weight: 600;
+    font-size: 18px;
+}

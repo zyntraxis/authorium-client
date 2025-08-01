@@ -1,0 +1,8 @@
+.latest {
+    margin-bottom: 50px;
+}
+
+.latest__list {
+    display: flex;
+    flex-wrap: wrap;
+}
